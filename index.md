@@ -12,8 +12,8 @@ games due to its lack of games which were hard to solve for approximate algorith
 With that in mind, we built this library as a test suite for approximation
 algorithms. There are currently two projects hosted :
 
-- Algorithms <http://polymatrix-games.github.io/polymatrix-algs> : This contains
+- Algorithms <https://github.com/polymatrix-games/polymatrix-algs> : This contains
   implementations of various algorithms for the approximation of Nash equibrium.
-- Game Library <http://polymatrix-games.github.io/polymatrix-generators> : This
+- Game Library <https://github.com/polymatrix-games/polymatrix-generators> : This
   contains the implementations of several classes of games which were introduced
   to study their properties with regards to approximation.
